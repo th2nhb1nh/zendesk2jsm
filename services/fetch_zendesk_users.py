@@ -1,4 +1,4 @@
-from services.zendesk_service import fetch_data, write_to_file
+from utils.zendesk_service import fetch_data, write_to_file
 from config import BASE_URL
 
 def main():

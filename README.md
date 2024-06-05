@@ -9,4 +9,4 @@ source .venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-In `config.py`, replace all the placeholders of `ZENDESK_SUBDOMAIN`, `ZENDESK_USER_EMAIL`, and `ZENDESK_API_TOKEN` with your real redentials. Then run files matching your needs.
+In `config.py`, replace all the placeholders of `ZENDESK_SUBDOMAIN`, `ZENDESK_USER_EMAIL`, and `ZENDESK_API_TOKEN` with your real redentials. Then run files matching your needs in `services` directory.
