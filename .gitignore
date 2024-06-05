@@ -177,3 +177,4 @@ pyrightconfig.json
 
 ############################
 *.json
+pyvenv.cfg
